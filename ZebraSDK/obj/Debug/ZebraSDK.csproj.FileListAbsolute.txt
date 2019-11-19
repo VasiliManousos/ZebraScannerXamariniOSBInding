@@ -1,0 +1,4 @@
+/Users/vas/ZebraSDK/bin/Debug/ZebraSdkXamarinIos.dll
+/Users/vas/ZebraSDK/bin/Debug/ZebraSdkXamarinIos.pdb
+/Users/vas/ZebraSDK/obj/Debug/ZebraSdkXamarinIos.dll
+/Users/vas/ZebraSDK/obj/Debug/ZebraSdkXamarinIos.pdb
